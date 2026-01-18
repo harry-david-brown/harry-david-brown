@@ -80,9 +80,6 @@
         <animate attributeName="opacity" dur="0.9s" values="0;1;0" repeatCount="indefinite"/>
       </rect>
 
-      <rect x="650" y="40" width="10" height="18" fill="#eaf0ff" opacity="0.85">
-        <animate attributeName="opacity" dur="0.9s" values="0;1;0" repeatCount="indefinite"/>
-      </rect>
     </g>
   </g>
 
