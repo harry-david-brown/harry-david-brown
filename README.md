@@ -17,8 +17,22 @@
 A performance/privacy-first “link in bio” product: compiled HTML, no public-page JavaScript, no tracking cookies, and a pay-once lifetime option.
 
 - Live: https://static.bio
-- Repo: private (monetized)
+- Repo: private
 - Why it exists: ownership + speed + clarity (no funnels, no bloat)
+
+**Receipts (public engineering notes):**  
+https://github.com/harry-david-brown/static-bio-engineering-notes
+
+### Architecture (high level)
+```mermaid
+flowchart LR
+  U[User] --> E[Edge/CDN Cache]
+  E -->|cache miss| O[Origin]
+  O --> R[(Database)]
+  O --> S[(Object Storage)]
+  O --> Q[Jobs/Queue]
+  O --> OBS[Logs/Tracing]
+```
 
 ---
 
