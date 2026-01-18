@@ -11,6 +11,20 @@
 
 ---
 
+## $ profile.fetch
+
+"""
+txt
+      /\      harry@static.bio
+     /  \     -----------------
+    /\   \    OS: Arch (btw)
+   /      \   WM: Hyprland
+  /   /\   \  Focus: Speed · Performance · Simplicity
+ /___/  \___\ 
+"""
+
+---
+
 ## Flagship (actively building)
 
 ### static.bio — static, zero-JS link-in-bio pages for devs
@@ -24,6 +38,8 @@ A performance/privacy-first “link in bio” product: compiled HTML, no public-
 https://github.com/harry-david-brown/static-bio-engineering-notes
 
 ### Architecture (high level)
+
+
 ```mermaid
 flowchart LR
   U[User] --> E[Edge/CDN Cache]
@@ -33,6 +49,7 @@ flowchart LR
   O --> Q[Jobs/Queue]
   O --> OBS[Logs/Tracing]
 ```
+
 
 ---
 
@@ -50,4 +67,6 @@ flowchart LR
 - **Monaco-Compiler** — scanner/parser/compile frontend (C)  
   https://github.com/harry-david-brown/Monaco-Compiler
 
----
+- **ZugzwangBot** — visual chess engine  
+  https://github.com/harry-david-brown/ZugzwangBot
+
