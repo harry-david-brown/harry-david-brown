@@ -38,12 +38,7 @@ A performance/privacy-first “link in bio” product: compiled HTML, no public-
 
 ---
 
-## Live artifacts (auto-updated)
-
-### Metrics
-<p align="center">
-  <img src="./generated/metrics.svg" width="100%" alt="GitHub Metrics" />
-</p>
+## Live artifacts 
 
 ### Pac-Man contributions
 <p align="center">
