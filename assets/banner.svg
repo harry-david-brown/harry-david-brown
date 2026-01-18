@@ -53,11 +53,11 @@
       Harry David Brown
     </text>
     <text class="mono" x="0" y="42" fill="#c7d2ff" font-size="18" opacity="0.95">
-      Systems · Performance
+      Systems
     </text>
 
     <g transform="translate(0, 78)">
-      <rect x="0" y="0" rx="14" ry="14" width="740" height="120" fill="#070b14" opacity="0.72" stroke="#2a3563"/>
+      <rect x="0" y="0" rx="14" ry="14" width="740" height="145" fill="#070b14" opacity="0.72" stroke="#2a3563"/>
       <circle cx="22" cy="20" r="6" fill="#ff5f57"/>
       <circle cx="42" cy="20" r="6" fill="#febc2e"/>
       <circle cx="62" cy="20" r="6" fill="#28c840"/>
@@ -72,13 +72,18 @@
         perf: cache hit path · p95/p99 · observability · CI/CD · clean interfaces
       </text>
 
+      <text class="mono" x="22" y="112" fill="#eaf0ff" font-size="16">
+        <tspan fill="#7aa2ff">$</tspan>
+      </text>
+
+      <rect x="38" y="98" width="10" height="18" fill="#eaf0ff" opacity="0.85">
+        <animate attributeName="opacity" dur="0.9s" values="0;1;0" repeatCount="indefinite"/>
+      </rect>
+
       <rect x="650" y="40" width="10" height="18" fill="#eaf0ff" opacity="0.85">
         <animate attributeName="opacity" dur="0.9s" values="0;1;0" repeatCount="indefinite"/>
       </rect>
     </g>
   </g>
 
-  <text class="mono" x="64" y="304" fill="#c7d2ff" font-size="12" opacity="0.7">
-    artifact-driven profile · actions generate SVGs daily
-  </text>
 </svg>
