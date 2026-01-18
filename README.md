@@ -38,20 +38,6 @@ A performance/privacy-first “link in bio” product: compiled HTML, no public-
 **Receipts (public engineering notes):**  
 https://github.com/harry-david-brown/static-bio-engineering-notes
 
-### Architecture (high level)
-
-
-```mermaid
-flowchart LR
-  U[User] --> E[Edge/CDN Cache]
-  E -->|cache miss| O[Origin]
-  O --> R[(Database)]
-  O --> S[(Object Storage)]
-  O --> Q[Jobs/Queue]
-  O --> OBS[Logs/Tracing]
-```
-
-
 ---
 
 ## Other work (side projects + coursework)
