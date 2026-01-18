@@ -13,16 +13,15 @@
 
 ## $ profile.fetch
 
-
 ```txt
-      /\      harry@static.bio
-     /  \     -----------------
-    /\   \    OS: Arch (btw)
-   /      \   WM: Hyprland
-  /   /\   \  Focus: Speed · Performance · Simplicity
- /___/  \___\ 
+         /\
+        /  \
+       /    \        ╭──────────────╮
+      /      \       │  os         │ Arch Linux
+     /   ,,   \      │  wm         │ Hyprland
+    /   |  |   \     │ 󰅐 mission    │ Speed · Performance · Simplicity
+   /_-''    ''-_\    ╰──────────────╯
 ```
-
 
 ---
 
