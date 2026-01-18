@@ -51,14 +51,3 @@ flowchart LR
   https://github.com/harry-david-brown/Monaco-Compiler
 
 ---
-
-## Live artifacts 
-
-### Pac-Man contributions
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harry-david-brown/harry-david-brown/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harry-david-brown/harry-david-brown/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harry-david-brown/harry-david-brown/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</p>
