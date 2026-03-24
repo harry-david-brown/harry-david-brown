@@ -17,9 +17,9 @@
          /\
         /  \
        /    \        ╭──────────────╮
-      /      \       │  os         │ Arch Linux
+      /      \       │  os         │ Arch Linux (btw)
      /   ,,   \      │  wm         │ Hyprland
-    /   |  |   \     │ 󰅐 mission    │ Speed · Performance · Simplicity
+    /   |  |   \     │ 󰅐 mission    │ Speed · Simplicity
    /_-''    ''-_\    ╰──────────────╯
 ```
 
@@ -30,11 +30,7 @@
 ### static.bio — static, zero-JS link-in-bio pages for devs
 A performance/privacy-first “link in bio” product: compiled HTML, no public-page JavaScript, no tracking cookies, and a pay-once lifetime option.
 
-- Live: https://static.bio
-- Repo: private
-- Why it exists: ownership + speed + clarity (no funnels, no bloat)
-
-**Receipts (public engineering notes):**  
+**Engineering notes:**  
 https://github.com/harry-david-brown/static-bio-engineering-notes
 
 ---
