@@ -25,7 +25,7 @@
 
 ---
 
-## Flagship (currently working on)
+## Currently working on
 
 ### static.bio — static, zero-JS link-in-bio pages for devs
 A performance/privacy-first “link in bio” product: compiled HTML, no public-page JavaScript, no tracking cookies
