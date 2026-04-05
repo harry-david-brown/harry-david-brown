@@ -19,7 +19,7 @@
        /    \        ╭──────────────╮
       /      \       │  os         │ Arch Linux (btw)
      /   ,,   \      │  wm         │ Hyprland
-    /   |  |   \     │ 󰅐 mission    │ Speed · Simplicity
+    /   |  |   \     │ 󰅐 ethos      │ Speed · Simplicity
    /_-''    ''-_\    ╰──────────────╯
 ```
 
