@@ -25,12 +25,12 @@
 
 ---
 
-## Flagship (actively building)
+## Flagship (currently working on)
 
 ### static.bio — static, zero-JS link-in-bio pages for devs
-A performance/privacy-first “link in bio” product: compiled HTML, no public-page JavaScript, no tracking cookies, and a pay-once lifetime option.
+A performance/privacy-first “link in bio” product: compiled HTML, no public-page JavaScript, no tracking cookies.
 
-**Engineering notes:**  
+**Notes:**  
 https://github.com/harry-david-brown/static-bio-engineering-notes
 
 ---
