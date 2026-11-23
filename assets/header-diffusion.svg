@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" xmlns:c2pa="http://c2pa.org/manifest">
 <rect width="1200" height="320" fill="#f3f0e8"/>
-<text x="64" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="44" font-weight="700" fill="#141414" letter-spacing="-1">Harry David Brown</text>
 <text x="64" y="176" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#8a8478">p<tspan baseline-shift="sub" font-size="11">θ</tspan>(x<tspan baseline-shift="sub" font-size="11">0</tspan> | x<tspan baseline-shift="sub" font-size="11">t</tspan>)</text>
 <text x="64" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#141414" opacity="0">t = 1.00<animate attributeName="opacity" calcMode="discrete" dur="12.24s" repeatCount="indefinite" keyTimes="0.0000;0.0114;1.0000" values="1;0;0"/></text>
 <text x="64" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#141414" opacity="0">t = 0.98<animate attributeName="opacity" calcMode="discrete" dur="12.24s" repeatCount="indefinite" keyTimes="0.0000;0.0114;0.0229;1.0000" values="0;1;0;0"/></text>
