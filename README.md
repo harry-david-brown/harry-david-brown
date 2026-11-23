@@ -10,13 +10,13 @@
 
 ---
 
-## RetroMMA
+## [RetroMMA](https://apps.apple.com/app/id6836540151)
 
 <img src="./assets/retromma-fight.png" width="100%" alt="RetroMMA: a fight in the cage" />
 
 An 8-bit MMA game for iPhone and iPad. The fight is played with one thumb (jab, cross, POWER on the beat; the
 slip; the counter) inside a career with two promotions, bookmaker odds and a living division of AI fighters.
-Godot 4.7, GDScript, about 19k lines.
+Godot 4.7, GDScript, about 19k lines. [On the App Store](https://apps.apple.com/app/id6836540151).
 
 - **The rig.** A headless harness plays the real game under a scripted thumb: a bot fitted to my own phone
   fights. It then runs whole careers through the real career code, and statistical gates fail any change that
